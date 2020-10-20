@@ -1,3 +1,17 @@
+
+# Descricao
+
+Projeto que clona a interface do instagram de login e timeline utiliznado como back-end o Firebase do google, ele exibe somente os posts criados pelo proprio usuario na timeline
+
+### Features
+
+- [x] Cadastro de usuário
+- [x] Login somente de usuários cadastrados
+- [x] Exibir os posts criados com imagem, descricao, titulo e o nome de usuario
+- [x] Modal para criar os posts
+- [x] Upar fotos para o backend durante a criação dos posts
+
+
 # App3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
